@@ -21,3 +21,7 @@ Hardware and display integration
 Wireless networking fundamentals
 Cybersecurity lab tooling
 Technical documentation and GitHub version control
+
+
+Responsible Use
+This project is intended for educational purposes and authorized security research. Only test wireless networks and devices you own or have explicit permission to assess. Follow applicable laws and respect other people's privacy.
